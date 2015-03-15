@@ -17,12 +17,14 @@ The aim was not to make the data as accessible as possible (typography was not a
 
 ## Data 
 
-|  | Germany | Great Britain | USA | China |
+|  | Germany | United Kingdom | USA | China |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Inhabitants (in millions) | 81 | 64 | 319 | 1,356 |
 | Births per year (per 1000 inhabitants) | 8.42 | 12.22 | 13.43 | 12.17 |
 | Child-mortality (per 1000 births) | 3.46 | 4.44 | 6.17 | 14.7 |
-| Men per woman | 1.06 | 1.05 | 1.05 | 1.11 |
+| Sex ration (Women per men) | 1.06 | 1.05 | 1.05 | 1.12 |
+
+Source: CIA World Factbook
 
 ## Concept
 
