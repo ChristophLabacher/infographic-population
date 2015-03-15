@@ -1056,10 +1056,10 @@ document.addEventListener("click", function(e) {
 
 	// ID, Name, Color, AddSpeed, Position, Size, 10 million inhabitants, Mortaltiy, Probability to be male
 	countries.push(new Country(0, "Center", "#FFFFFF", 1000, 0, 30, 50, 0, 0));
-	countries.push(new Country(1, "China", "#A6262F", 2000, -1, 70, 135, 0.0147, 0.555));
-	countries.push(new Country(2, "Deutschland", "#57ccff", 46000, 1, 70, 8, 0.00346, 0.53));
-	countries.push(new Country(3, "Großbritannien", "#0dbf4b", 40000, -2, 70, 6, 0.00444, 0.525));
-	countries.push(new Country(4, "USA", "#ffea00", 7000, 2, 70, 15, 0.00617, 0.525));
+	countries.push(new Country(1, "China", "#dd5570", 2000, -1, 70, 135, 0.0147, 0.555));
+	countries.push(new Country(2, "Deutschland", "#4691b5", 46000, 1, 70, 8, 0.00346, 0.53));
+	countries.push(new Country(3, "Großbritannien", "#46bbac", 40000, -2, 70, 6, 0.00444, 0.525));
+	countries.push(new Country(4, "USA", "#f28a4f", 7000, 2, 70, 15, 0.00617, 0.525));
 
 	countries[0].isRhythm = true;
 
